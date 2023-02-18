@@ -28,8 +28,9 @@ Given an integer array `nums`, return `true` if any value appears **at least twi
 **Output:** true
 
 **Constraints:**
- - `1 <= nums.length <= 10<sup>5</sup>`
- - `-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>`
+ - `1 <= nums.length <= 10^5`
+ - `-10^9 <= nums[i] <= 10^9`
+
 
 
 
