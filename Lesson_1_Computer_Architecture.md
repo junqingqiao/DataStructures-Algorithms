@@ -1,4 +1,4 @@
-# Lesson 1 Data Types
+# Lesson 1 Computer Architecture
 
 
 
