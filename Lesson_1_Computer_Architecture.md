@@ -1,6 +1,50 @@
 # Lesson 1 Computer Architecture
 
 
+## Introduction
+
+Watch the following video to get a general idea of computer architecture.
+https://youtu.be/vgPFzblBh7w
+https://youtu.be/o_WXTRS2qTY
+
+Answer the following questions:
+- Question
+
+## Common questions that might be asked in interviews
+
+1. What is the difference between von Neumann and Harvard architectures?
+2. How do cache memories work? What is the principle behind cache hits and misses?
+3. What is pipelining and how does it improve the performance of a processor?
+4. What is the difference between RISC and CISC architectures?
+5. Explain the concept of instruction-level parallelism (ILP) and how it is exploited in modern processors.
+6. What is the role of a branch predictor in a processor, and how does it help in reducing pipeline stalls?
+7. How do out-of-order execution and speculation help in improving the performance of a processor?
+8. What is the difference between symmetric multiprocessing (SMP) and asymmetric multiprocessing (AMP) architectures?
+9. What is the role of DMA (Direct Memory Access) in a computer system?
+10. How do virtual memory and paging work in a computer system?
+
+
+#### CPU architecture graph
+
+```
+                        Computer Architectures
+                                |
+                +---------------+----------------+
+                |                                |
+          Von Neumann                 Harvard Architecture
+                |
+         +------+-------+
+         |              |
+    RISC Architecture   CISC Architecture
+         |                |
+         |          +-----+-----+
+         |          |           |
+   ARM Architecture   x86        Power Architecture
+         |                          |
+  +------+-----+               +----+-----+
+  |            |               |          |
+MIPS     SPARC Architecture   IBM      Motorola
+```
 
 ### Builtin data types in different programming languages
 
